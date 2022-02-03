@@ -8,8 +8,8 @@
     "background_color": "#b1b384",
     "theme_color" : "#ccd13f",  
     "display": "standalone",
-    "start_url": "/",
-    "scope": "/",
+    "start_url": "https://lorchidoclaste.github.io/pwa/",
+    "scope": "https://lorchidoclaste.github.io/pwa",
     "icons": [
         {
             "src": "icone-192x192.png",
